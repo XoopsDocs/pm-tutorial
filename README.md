@@ -2,7 +2,7 @@
 ![logoXoops.jpg](en/assets/logoXoops.jpg)
 
 # Module PM
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.8
       
 ![logoModule.png](en/assets/logoModule.png)
             
@@ -12,7 +12,7 @@
 
 ## Module Purpose 
 
-This module is for .....
+The PM (Private Messaging) Module is for private messaging between users
 
 ![image001.png](en/assets/image001.png)
 *Figure 1: Main view of the PM Module (Admin side)*
